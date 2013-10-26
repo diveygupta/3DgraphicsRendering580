@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CS580HW3", "CS580HW3.vcxproj", "{BCFB955B-5636-3E74-6E4E-96E89DB86E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCFB955B-5636-3E74-6E4E-96E89DB86E05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCFB955B-5636-3E74-6E4E-96E89DB86E05}.Debug|Win32.Build.0 = Debug|Win32
+		{BCFB955B-5636-3E74-6E4E-96E89DB86E05}.Release|Win32.ActiveCfg = Release|Win32
+		{BCFB955B-5636-3E74-6E4E-96E89DB86E05}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
